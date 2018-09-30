@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Accurate Mortars Lite</name>
+  <author>Nick2525</author>
+  <description>This is the "Lite" Version of "Accurate Mortars"
+Mortars became way more accurate.
+Mortars' spread will be decreased from 11 to 5.
+Updated for Beta 18!!</description>
+  <targetVersion>0.18.1722</targetVersion>
+</ModMetaData>

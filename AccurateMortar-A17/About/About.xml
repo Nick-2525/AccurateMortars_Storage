@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Accurate Mortars</name>
+  <author>Nick2525</author>
+  <description>Mortars became way more accurate.
+Mortars' spread will be decreased from 11 to 5.
+it'll also decrease the cooldown from 28sec to 20sec.
+Updated for Alpha 17!</description>
+  <targetVersion>0.17.1546</targetVersion>
+</ModMetaData>
